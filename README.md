@@ -1,5 +1,6 @@
 # Tic Tac Toe
-Remake do Jogo da Velha, sugerido pela plataforma de estudos <a href="https://www.dio.me/">Dio._</a>
+Remake do Jogo da Velha, sugerido pela plataforma de estudos <a href="https://www.dio.me/">Dio._</a><br>
+Link do site: <a href="https://tic-tac-toe-c3k.pages.dev/">Tic Tac Toe</a>
 
 ## Screenshot
 
