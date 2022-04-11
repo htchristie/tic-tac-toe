@@ -3,8 +3,7 @@ Remake do Jogo da Velha, sugerido pela plataforma de estudos <a href="https://ww
 Link do site: <a href="https://tic-tac-toe-c3k.pages.dev/">Tic Tac Toe</a>
 
 ## Screenshot
-
-![image](https://user-images.githubusercontent.com/84540148/161406373-a951823d-6861-47f8-9a60-3715899c8924.png)
+![image](https://user-images.githubusercontent.com/84540148/162838053-49fd7485-c2a2-44a7-a3ad-6c5984d6a5dc.png)
 
 
 ## Meu processo
@@ -15,7 +14,7 @@ Link do site: <a href="https://tic-tac-toe-c3k.pages.dev/">Tic Tac Toe</a>
 
 ### Construído com:
 - HTML semântico
-- Variáveis CSS
+- Propriedades customizadas
 - Event Listeners
 
 ## Referências
