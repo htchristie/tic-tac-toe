@@ -3,8 +3,7 @@ Remake do Jogo da Velha, sugerido pela plataforma de estudos <a href="https://ww
 Link do site: <a href="https://tic-tac-toe-c3k.pages.dev/">Tic Tac Toe</a>
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/84540148/162838053-49fd7485-c2a2-44a7-a3ad-6c5984d6a5dc.png)
-
+![image](https://user-images.githubusercontent.com/84540148/164132473-ed5a6101-63b8-4ac0-b5b0-c7497f62ab90.png)
 
 ## Meu processo
 
